@@ -25,6 +25,12 @@ The objective was to create a **Power BI dashboard** for real-time tracking of *
 - **Filters & Slicers:** Implemented **yearly, regional, and Parameter** slicers for dynamic analysis.
 - **Performance Metrics:** Added KPIs such as **Total Sales, Total Profit, Order Returns, and YoY Growth**.
 
+# Sales Dashboard
+![image alt](https://github.com/bhaskarkumar222/Superstore-Sales-Analysis/blob/5bc31d28081d1fb501ebf719f64fdea85514f377/Visualization/Screenshot%202025-02-10%20223051.png)
+
+# Product Dashboard
+![image alt](https://github.com/bhaskarkumar222/Superstore-Sales-Analysis/blob/5bc31d28081d1fb501ebf719f64fdea85514f377/Visualization/Screenshot%202025-02-10%20223133.png)
+
 ## Result
 #### Key Insights
 **1. Sales & Regional Performance:**
