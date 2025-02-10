@@ -4,7 +4,7 @@
 The **Sales & Product Analysis Dashboard** in Power BI gives a **clear picture of how sales, profits, and returns** are doing across different regions and product categories. It shows important **KPIs** like **total sales, total profit, total orders, and return rates**. This helps The businesses to see where they can grow and what problems they need to fix. The dashboard also **breaks down sales by region** to show which areas are doing well and which are not. It also highlights products with high return rates that are hurting profits. Additionally, it analyses customer groups like Consumer, Corporate, and Home Office to understand buying habits with **interactive visualizations** businesses can make **smarter decisions** to increase revenue, cut losses, and improve their product offerings.
 
 ## Tool & Skill Used
-- Power BI (Data Visualization) 
+- Power BI (Data Visualization) <a href="https://app.powerbi.com/view?r=eyJrIjoiZTEzYzY0ZDAtNjAwYS00NmJjLWExNGQtMWNjNWFiZmVmNjRmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">View Dashboard</a>
 - Power Query (Data Cleaning & Transformation)
 - DAX (Data Analysis Expressions) (Custom Measures & Calculations)
 - Excel (Data Preprocessing)
