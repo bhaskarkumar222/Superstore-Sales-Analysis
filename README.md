@@ -53,3 +53,19 @@ The objective was to create a **Power BI dashboard** for real-time tracking of *
   - Office Supplies Drive the Majority of Sales of 61.5% the business relies heavily on this category.
   - **Technology** Products Have a Lower Share of **18.88%**.
 
+# Final Conclusion
+
+ This Power BI dashboard enables **smarter business decisions** by providing **clear sales trends, profit analysis and return insights**. Moving forward, the company should focus on:
+- **Expanding profitable product categories** and reducing dependency on high-return items.
+- **Optimizing costs in low-profit regions** through pricing strategies and operational improvements.
+
+With these actions, the company can **increase profitability, reduce losses, and drive sustainable business growth**.
+
+
+
+
+
+
+
+
+
